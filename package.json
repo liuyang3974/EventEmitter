@@ -1,0 +1,12 @@
+{
+  "name": "EventEmitter",
+  "version": "1.0.0",
+  "description": "This is an event emitter for user JavaScript",
+  "main": "index.js",
+  "author": "yang",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["EventEmitter","Event","JavaScript","vue"],
+  "license": "ISC"
+}
