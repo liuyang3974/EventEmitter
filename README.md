@@ -6,8 +6,15 @@
 # 列子
 
 ```js
+// npm安装
+npm install yang-eventemitter
 
-// 引入
+// pnpm 安装
+pnpm add yang-eventemitter
+
+
+
+// 页面引入
 import { EventEmitter } from 'yang-eventemitter';
 
 

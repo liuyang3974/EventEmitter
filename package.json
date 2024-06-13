@@ -1,6 +1,6 @@
 {
   "name": "yang-eventemitter",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "This is an event emitter for user JavaScript",
   "main": "index.js",
   "author": "yang",
